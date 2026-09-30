@@ -24,3 +24,6 @@ Dynasty is a hotel, restaurant and events complex in Kamianets-Podilskyi, Ukrain
 
 ## Notes
 The page explicitly states that room counts, categories, prices, check-in/out times and breakfast are not published and should be confirmed via the booking page. Children's room rules, live music schedule, and event capacity/equipment details are also flagged as needing confirmation before a visit.
+
+## Forms
+Connected to HotelOS (`kp-dynasty`): `stay-request`, `event-request` (banquet hall), `conference-request`. Script and contract: `../shared/FORMS.md`.
